@@ -46,7 +46,7 @@ Ecocart-hackathon-project/ ├── index.html ├── css/ │ └── sty
 
 
 🙌 Team & Credits
-💻 Developed by: Rishishinde08 , aniket gosavi , krishna poul , pruthaviraj mali
+💻 Developed by: Rishishinde08 , mraniket404 , krishna poul , pruthaviraj mali
 
 🚀 Submitted for: Prabal Hackathon 2025
 
@@ -103,7 +103,7 @@ Ecocart-hackathon-project/ ├── index.html ├── css/ │ └── sty
 
 
 🙌 Team & Credits
-💻 Developed by: Rishishinde08 , aniket gosavi , krishna poul , pruthaviraj mali
+💻 Developed by: Rishishinde08 , mraniket404 , krishna poul , pruthaviraj mali
 
 🚀 Submitted for: Prabal Hackathon 2025
 
